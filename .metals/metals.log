@@ -4174,3 +4174,8 @@ WARNING: Unmatched cancel notification for request id 1
 2024.10.17 21:07:13 INFO  java targets: sparkrepo-build, sparkrepo-test, sparkrepo
 2024.10.17 21:07:15 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
 2024.10.17 21:07:15 INFO  time: indexed workspace in 3.35s
+2024.10.17 22:21:30 INFO  Shutting down server
+2024.10.17 22:21:30 INFO  shutting down Metals
+2024.10.17 22:21:30 INFO  Shut down connection with build server.
+2024.10.17 22:21:30 INFO  Shut down connection with build server.
+2024.10.17 22:21:30 INFO  Exiting server
