@@ -1,0 +1,4 @@
+[debug] [sparkrepo-test] Classpath dependencies List()
+[debug] [sparkrepo-test] Dependencies from configurations List(sparkrepo)
+[debug] Bloop wrote the configuration of project 'sparkrepo-test' to '/Users/halakhalifa/Desktop/bigData/SparkRepo/.bloop/sparkrepo-test.json'
+[success] Generated .bloop/sparkrepo-test.json
