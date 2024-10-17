@@ -4179,3 +4179,31 @@ WARNING: Unmatched cancel notification for request id 1
 2024.10.17 22:21:30 INFO  Shut down connection with build server.
 2024.10.17 22:21:30 INFO  Shut down connection with build server.
 2024.10.17 22:21:30 INFO  Exiting server
+2024.10.17 22:50:04 INFO  Started: Metals version 1.3.5 in folders '/Users/halakhalifa/Desktop/bigData/SparkRepo' for client Visual Studio Code 1.71.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1430f3e3]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@62ef53d1]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1430f3e3]
+2024.10.17 22:50:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.17 22:50:05 INFO  Attempting to connect to the build server...
+2024.10.17 22:50:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/halakhalifa/Desktop/bigData/SparkRepo/.metals/bsp.trace.json or /Users/halakhalifa/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.17 22:50:06 INFO  no build target found for /Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.17 22:50:06 INFO  Attempting to connect to the build server...
+2024.10.17 22:50:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/halakhalifa/Desktop/bigData/SparkRepo/project/.metals/bsp.trace.json or /Users/halakhalifa/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.17 22:50:06 INFO  time: Connected to build server in 0.76s
+2024.10.17 22:50:06 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.17 22:50:06 INFO  time: Imported build in 0.22s
+2024.10.17 22:50:06 INFO  no build target found for /Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.17 22:50:06 INFO  running doctor check
+2024.10.17 22:50:06 INFO  java targets: sparkrepo-build, sparkrepo-test, sparkrepo
+2024.10.17 22:50:06 INFO  compiling sparkrepo (1 scala source)
+2024.10.17 22:50:06 WARN  Could not find semantic tokens for: file:///Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Main.scala
+2024.10.17 22:50:08 INFO  time: compiled sparkrepo in 1.78s
+2024.10.17 22:50:09 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.17 22:50:10 INFO  time: indexed workspace in 3.69s
+2024.10.17 22:50:51 INFO  Shutting down server
+2024.10.17 22:50:51 INFO  shutting down Metals
+2024.10.17 22:50:51 INFO  Shut down connection with build server.
+2024.10.17 22:50:51 INFO  Shut down connection with build server.
+2024.10.17 22:50:51 INFO  Exiting server
