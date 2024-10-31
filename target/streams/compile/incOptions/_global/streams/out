@@ -1,35 +1,11 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine$$typecreator1$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BloomFilterApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BloomFilterApp$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine$$typecreator1$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BloomFilterApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BloomFilterApp$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SparkContextProvider.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DocumentProcessor$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SparkSessionProvider.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SparkSessionProvider$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DocumentProcessor.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SparkContextProvider$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	InvertedIndex$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MongoDBHandler.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MongoDBHandler$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	InvertedIndex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BloomFilterApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BloomFilterApp.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes.bak[0m

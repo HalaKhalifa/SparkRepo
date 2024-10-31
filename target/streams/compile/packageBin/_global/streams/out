@@ -1,11 +1,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/sparksearchengine_2.12-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngine1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/SearchEngine1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/SearchEngineApp1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SearchEngineApp1$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/SearchEngineApp1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wholeInvertedIndex.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/wholeInvertedIndex.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	documents[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/documents[0m
 [0m[[0m[0mdebug[0m] [0m[0m	documents/archive[0m
@@ -52,6 +48,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/documents/archive/sci.space.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	documents/archive/talk.politics.misc.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/documents/archive/talk.politics.misc.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Activity1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/Activity1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Activity1/BloomFilterApp1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/Activity1/BloomFilterApp1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Activity1/BloomFilterApp1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/Activity1/BloomFilterApp1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Activity1/BloomFilterApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/Activity1/BloomFilterApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Activity1/BloomFilterApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/Activity1/BloomFilterApp.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	src[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/src[0m
 [0m[[0m[0mdebug[0m] [0m[0m	src/main[0m

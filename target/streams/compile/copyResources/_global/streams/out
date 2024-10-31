@@ -1,4 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/resources/wholeInvertedIndex.txt,/Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/wholeInvertedIndex.txt)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/resources/documents/archive/sci.crypt.txt,/Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/documents/archive/sci.crypt.txt)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/resources/documents/archive/comp.sys.mac.hardware.txt,/Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/documents/archive/comp.sys.mac.hardware.txt)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/resources/documents/archive/misc.forsale.txt,/Users/halakhalifa/Desktop/bigData/SparkRepo/target/scala-2.12/classes/documents/archive/misc.forsale.txt)[0m

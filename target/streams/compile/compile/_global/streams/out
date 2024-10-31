@@ -1,6 +1,18 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Main.scala:114:64: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : List[Seq[String]][0m
-[0m[[0m[31merror[0m] [0m[0m required: List[List[String]][0m
-[0m[[0m[31merror[0m] [0m[0m  val queryResults: List[List[String]] = queryWords.toList.map { word =>[0m
-[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Activity1/draft.scala:72:9: falsePositiveRate is already defined as value falsePositiveRate[0m
+[0m[[0m[31merror[0m] [0m[0m    val falsePositiveRate = if (totalTestedWords > 0) falsePositives.toDouble / totalTestedWords else 0.0[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Activity1/draft.scala:46:27: recursive value bloomFilter needs type[0m
+[0m[[0m[31merror[0m] [0m[0m      val inBloomFilter = bloomFilter.contains(word)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Activity1/draft.scala:71:44: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    val totalTestedWords = truePositives + falsePositives + trueNegatives + falseNegatives[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Activity1/draft.scala:72:70: value toDouble is not a member of AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m    val falsePositiveRate = if (totalTestedWords > 0) falsePositives.toDouble / totalTestedWords else 0.0[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/halakhalifa/Desktop/bigData/SparkRepo/src/main/scala/Activity1/draft.scala:73:70: value toDouble is not a member of AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m    val falseNegativeRate = if (totalTestedWords > 0) falseNegatives.toDouble / totalTestedWords else 0.0[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
