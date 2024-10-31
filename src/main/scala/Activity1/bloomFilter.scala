@@ -34,7 +34,7 @@ object BloomFilterApp {
     val falsePositiveRate = 0.001 
 
     // Split words into training and testing datasets (70% train, 30% test)
-    val splitRatio = Array(0.7, 0.3) // Use an Array[Double] for split ratios
+    val splitRatio = Array(0.7, 0.3) 
     val Array(trainingWords, testingWords) = words.randomSplit(splitRatio)
 
     // Create the Bloom Filter using the training set
